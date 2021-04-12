@@ -1,4 +1,4 @@
-# Anit-Crypto Coin Public Ledge Accounting
+# Project #62: Anit-Crypto Coin Public Ledge Accounting
 Build a simple public ledger system to support flows of "karma" to contributors in a graph of innovations
 
 # Idea
